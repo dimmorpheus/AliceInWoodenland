@@ -230,6 +230,10 @@ header {
     opacity: 0.7;
 }
 
+.product-container-img.touch-active .slider-container {
+    opacity: 0.7;
+}
+
 .slider-button-prev,
 .slider-button-next {
     display: flex;
